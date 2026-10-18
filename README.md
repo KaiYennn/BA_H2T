@@ -1,17 +1,11 @@
 # Bachelor's Thesis: Imagination for Via-Point Generation in Via-Point Movement Primitives (VMPs)
 
-> **Bachelor's Thesis Presentation & Project Documentation**
->
-> **Author:** Kai Yen Chang
->
-> **Date:** November 27, 2025
->
-> **Supervisors:** Sebastian Rietsch, Joana Plewnia
->
-> **Institution:** High Performance Humanoid Technologies (H2T), Karlsruhe Institute of Technology (KIT)
->
-> **Target Robot Platform:** ARMAR-7 Humanoid Robot
-
+- **Bachelor's Thesis Presentation & Project Documentation**
+- **Author:** Kai Yen Chang
+- **Date:** November 27, 2025
+- **Supervisors:** Sebastian Rietsch, Joana Plewnia
+- **Institution:** High Performance Humanoid Technologies ([H²T](https://h2t.iar.kit.edu/)), Karlsruhe Institute of Technology ([KIT](https://www.kit.edu/english/))
+- **Target Robot Platform:** ARMAR7 [Humanoid Robot](https://h2t.iar.kit.edu/397.php)
 
 
 ## 📖 Table of Contents
